@@ -12,6 +12,9 @@ export default {
 
 <style lang="less" scoped>
 .login_container{
-    background: #2b4b6b;
+    width:100%;
+    height:100%;
+    background-image: url('../assets/images/login-bg.png');
+    background-size: cover;
 }
 </style>
